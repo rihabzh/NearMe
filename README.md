@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 10-12-2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,15 +25,26 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+<html lang="en">
+    <head>
+    </head>
+    <body>
+        <img id="Image-Maps-Com-image-maps-2023-04-20-084957" src="mymap.jpg" border="0" width="1920" height="974" orgWidth="1920" orgHeight="974" usemap="#image-maps-2023-04-20-084957" alt="" />
+<map name="image-maps-2023-04-20-084957" id="ImageMapsCom-image-maps-2023-04-20-084957">
+<area  alt="" title="Arunachala Hill" href="hill.html" shape="rect" coords="642,370,798,430" style="outline:none;" target="_self"    data-maphilight='aurachala hill' />
+<area  alt="" title="cave" href="cave.html" shape="rect" coords="689,489,885,565" style="outline:none;" target="_self"    data-maphilight='cave' />
+<area  alt="" title="college" href="college.html" shape="rect" coords="910,725,1046,836" style="outline:none;" target="_self"    data-maphilight='college
+' />
+<area  alt="" title="hotel" href="hotel.html" shape="rect" coords="982,305,1214,371" style="outline:none;" target="_self"    data-maphilight='hotel' />
+<area  alt="" title="school" href="school.html" shape="rect" coords="230,714,470,813" style="outline:none;" target="_self"    data-maphilight='school' />
+<area shape="rect" coords="1918,972,1920,974" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
+</map>
+    </body>
+</html>
 
 
 ## OUTPUT
-
-
-
-
-
-
+<img width="1919" height="670" alt="Screenshot 2025-12-10 100414" src="https://github.com/user-attachments/assets/ca0394e4-568d-434f-a4d7-47123da35c87" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
